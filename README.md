@@ -22,7 +22,7 @@ This repository contains my solution for the Frontend Mentor QR Code Component c
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://jaymala-963.github.io/qr-code-frontend-mentor/)
+- Live Site URL: [QR code frontend menotr](https://jaymala-963.github.io/qr-code-frontend-mentor/)
 
 ## My process
 
@@ -37,7 +37,7 @@ Since this was my first-ever CSS challenge done independently, it took me more t
 
 ## Author
 
-- Website - [Add your name here](https://github.com/JAYMALA-963)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/JAYMALA-963)
+- Website - [Github](https://github.com/JAYMALA-963)
+- Frontend Mentor - [@JAYMALA-963](https://www.frontendmentor.io/profile/JAYMALA-963)
 
 
